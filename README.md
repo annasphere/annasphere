@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anna.
 
- 👩🏻‍💻 `I am a Full-Stack Web Developer`
+ `I am a Full-Stack Web Developer.`
 
 I design and build systems that connect every part of e-commerce businesses, from branding, storefronts and suppliers to fulfillment and automation. I build brands from the ground up and create connected workflows that make operations run effortlessly.
 
