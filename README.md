@@ -1,11 +1,11 @@
-<img width="892" height="402" alt="anna banner" src="https://github.com/user-attachments/assets/18e498b2-799a-4528-bcd0-dfbf9cf793af" />
+<!-- <img width="830" height="350" alt="anna banner" src="https://github.com/user-attachments/assets/18e498b2-799a-4528-bcd0-dfbf9cf793af" /> -->
 
-# 👋 Hi, I'm Anna,
+<img width="637" height="309" alt="banner 2" src="https://github.com/user-attachments/assets/eb048fbb-c5fc-4f4e-8218-0222aa1fec25" />
+
+<!-- # 👋 Hi There, -->
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&duration=1000&pause=1000&color=53C5F7&width=435&height=40&lines=%E2%9C%A8+Simplify.;%F0%9F%A7%A9+Connect.;%F0%9F%A4%96+Automate.)](https://git.io/typing-svg)
 
-
-
-`I am a Full-Stack Web Developer.`
+`Hi, I am a Full-Stack Web Developer.`
 
 I build automated systems that simplify how e-commerce brands operate. By connecting storefronts, vendors, and fulfillment through smart integrations, I reduce errors, eliminate repetitive work, and streamline multi-channel operations so teams can focus on growth.
 
@@ -26,7 +26,7 @@ I build automated systems that simplify how e-commerce brands operate. By connec
 
 ## 🚀 Projects 
 
-* 💼  [FLOWria](https://annasphere.github.io/flowria/) | Pilates & Yoga e-commerce project combining brand identity, UX design, and functional web development. End-to-end execution branding, logo and visual identity, responsive layout, checkout logic, form validation, and accessibility optimization (Lighthouse 96/100).
+* 💼  [FLOWria](https://annasphere.github.io/flowria/) | Pilates & Yoga e-commerce project combining brand identity, UX design, and functional web development. End-to-end execution branding, logo and visual identity, responsive layout, checkout logic, form validation, and accessibility optimization.
 
 * 💼  [Rugged Junction](https://www.ruggedjunction.com) | Outdoor e-commerce brand built in Shopify. Creative direction, product sourcing, and brand system design. Project operational strategy, branding, and Shopify customization. 
 
