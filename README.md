@@ -1,6 +1,9 @@
+<img width="892" height="402" alt="anna banner" src="https://github.com/user-attachments/assets/18e498b2-799a-4528-bcd0-dfbf9cf793af" />
 
-# 👋 Hi, I'm Anna.
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&duration=1000&pause=1000&color=53C5F7&width=435&height=40&lines=%E2%9C%A8+Simplify.;%F0%9F%A7%A9+Connect.;%F0%9F%A4%96+Automate.)](https://git.io/typing-svg)
+# 👋 Hi, I'm Anna,
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&duration=1000&pause=1000&color=53C5F7&width=435&height=40&lines=%E2%9C%A8+Simplify.;%F0%9F%A7%A9+Connect.;%F0%9F%A4%96+Automate.)](https://git.io/typing-svg)
+
+
 
 `I am a Full-Stack Web Developer.`
 
@@ -27,5 +30,5 @@ I build automated systems that simplify how e-commerce brands operate. By connec
 
 * 💼  [Rugged Junction](https://www.ruggedjunction.com) | Outdoor e-commerce brand built in Shopify. Creative direction, product sourcing, and brand system design. Project operational strategy, branding, and Shopify customization. 
 
-* 💼  [Kawaii Café](https://annasphere.github.io/kawaii-cafe/) | Front-end JavaScript build focused on API integration, asynchronous data handling, and real-time UI updates. Connects to multiple APIs, stores user data locally, and dynamic rendering using JavaScript and jQuery. 
+* 💼  [Kawaii Café](https://annasphere.github.io/kawaii-cafe/) | JavaScript build focused on API integration, asynchronous data handling, and real-time UI updates. Connects to multiple APIs, stores user data locally, and dynamic rendering using JavaScript and jQuery. 
 
