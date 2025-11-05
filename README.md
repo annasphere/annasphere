@@ -30,5 +30,5 @@ I build automated systems that simplify how e-commerce brands operate. By connec
 
 * 💼  [Rugged Junction](https://www.ruggedjunction.com) | Outdoor e-commerce brand built in Shopify. Creative direction, product sourcing, and brand system design. Project operational strategy, branding, and Shopify customization. 
 
-* 💼  [Kawaii Café](https://annasphere.github.io/kawaii-cafe/) | JavaScript build focused on API integration, asynchronous data handling, and real-time UI updates. Connects to multiple APIs, stores user data locally, and dynamic rendering using JavaScript and jQuery. 
+<!-- * 💼  [Kawaii Café](https://annasphere.github.io/kawaii-cafe/) | JavaScript build focused on API integration, asynchronous data handling, and real-time UI updates. Connects to multiple APIs, stores user data locally, and dynamic rendering using JavaScript and jQuery. -->
 
