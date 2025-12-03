@@ -1,6 +1,7 @@
 <!-- <img width="830" height="350" alt="anna banner" src="https://github.com/user-attachments/assets/18e498b2-799a-4528-bcd0-dfbf9cf793af" /> -->
 
-<img width="3140" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/09f9536f-7e1d-48ee-97d1-9fe7f3924dcb" />
+<img width="2232" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/18279ab3-a2a9-4553-b574-50085fd13c21" />
+
 
 <!-- <img width="637" height="309" alt="banner 2" src="https://github.com/user-attachments/assets/eb048fbb-c5fc-4f4e-8218-0222aa1fec25" /> -->
 
