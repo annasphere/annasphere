@@ -1,5 +1,5 @@
 <!-- <img width="830" height="350" alt="anna banner" src="https://github.com/user-attachments/assets/18e498b2-799a-4528-bcd0-dfbf9cf793af" /> -->
-<img width="2232" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/18279ab3-a2a9-4553-b574-50085fd13c21" />
+<img width="1280" height="640" alt="github-header-banner" src="https://github.com/user-attachments/assets/18279ab3-a2a9-4553-b574-50085fd13c21" />
 <!-- <img width="637" height="309" alt="banner 2" src="https://github.com/user-attachments/assets/eb048fbb-c5fc-4f4e-8218-0222aa1fec25" /> -->
 
 <!-- # 👋 Hi There, 
@@ -25,9 +25,9 @@ I build automated systems that simplify how e-commerce brands operate. By connec
 
 ## 🚀 Projects 
 
-* 💼  [FLOWria](https://annasphere.github.io/flowria/) | Pilates & Yoga e-commerce project combining brand identity, UX design, and functional web development. End-to-end execution branding, logo and visual identity, responsive layout, checkout logic, form validation, and accessibility optimization.
+[FLOWria](https://annasphere.github.io/flowria/) | Pilates & Yoga e-commerce project combining brand identity, UX design, and functional web development. End-to-end execution branding, logo and visual identity, responsive layout, checkout logic, form validation, and accessibility optimization.
 
-* 💼  [Rugged Junction](https://www.ruggedjunction.com) | Outdoor e-commerce brand built in Shopify. Creative direction, product sourcing, and brand system design. Project operational strategy, branding, and Shopify customization. 
+[Rugged Junction](https://www.ruggedjunction.com) | Outdoor e-commerce brand built in Shopify. Creative direction, product sourcing, and brand system design. Project operational strategy, branding, and Shopify customization. 
 
 <!-- * 💼  [Kawaii Café](https://annasphere.github.io/kawaii-cafe/) | JavaScript build focused on API integration, asynchronous data handling, and real-time UI updates. Connects to multiple APIs, stores user data locally, and dynamic rendering using JavaScript and jQuery. -->
 
