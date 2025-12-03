@@ -4,9 +4,8 @@
 
 <!-- # 👋 Hi There, 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&duration=1000&pause=1000&color=53C5F7&width=435&height=40&lines=%E2%9C%A8+Simplify.;%F0%9F%A7%A9+Connect.;%F0%9F%A4%96+Automate.)](https://git.io/typing-svg) -->
-<p>
+
 I build automated systems that simplify how e-commerce brands operate. By connecting storefronts, vendors, and fulfillment through smart integrations, I reduce errors, eliminate repetitive work, and streamline multi-channel operations so teams can focus on growth.
-</p>
 * 🌍  I'm based in U.S.A 🇺🇸
 * ✉️  You can contact me at [aprasongsy@gmail.com](mailto:aprasongsy@gmail.com)
 * 🧠  I'm currently learning RAG.
