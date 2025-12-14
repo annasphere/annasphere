@@ -8,7 +8,7 @@
 I build automated systems that simplify how e-commerce brands operate. I help businesses connect storefronts, vendors, customers and fulfillment through smart integrations to reduce errors, eliminate repetitive work, and streamline multi-channel operations so teams can focus on growth.
 
 * 🌍  I'm based in U.S.A 🇺🇸
-* ✉️  You can contact me at [aprasongsy@gmail.com](mailto:aprasongsy@gmail.com)
+* ✉️  You can contact me by messaging me or through LinkedIn. 
 * 🧠  I'm currently learning RAG.
 * 👥  I'm looking to collaborate on RAG, AI & LLMs projects.
 * ✨ I like exploring new cultures through food, wine and travel. ✈️
