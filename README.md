@@ -1,4 +1,4 @@
-<img width="1280" height="640" alt="github-header-banner" src="https://github.com/user-attachments/assets/18279ab3-a2a9-4553-b574-50085fd13c21" />
+<!-- <img width="1280" height="640" alt="github-header-banner" src="https://github.com/user-attachments/assets/18279ab3-a2a9-4553-b574-50085fd13c21" /> -->
 
 # Hi, I'm Anna
 
