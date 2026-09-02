@@ -1,50 +1,35 @@
-<!-- <img width="1280" height="640" alt="github-header-banner" src="https://github.com/user-attachments/assets/18279ab3-a2a9-4553-b574-50085fd13c21" /> -->
+<!-- <img width="830" height="350" alt="anna banner" src="https://github.com/user-attachments/assets/18e498b2-799a-4528-bcd0-dfbf9cf793af" /> -->
+<img width="1280" height="640" alt="github-header-banner" src="https://github.com/user-attachments/assets/18279ab3-a2a9-4553-b574-50085fd13c21" />
+<!-- <img width="637" height="309" alt="banner 2" src="https://github.com/user-attachments/assets/eb048fbb-c5fc-4f4e-8218-0222aa1fec25" /> -->
 
-# Hi, I'm Anna
+<!-- # 👋 Hi There, 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&duration=1000&pause=1000&color=53C5F7&width=435&height=40&lines=%E2%9C%A8+Simplify.;%F0%9F%A7%A9+Connect.;%F0%9F%A4%96+Automate.)](https://git.io/typing-svg) -->
 
-I'm a **MarTech Developer and Front-End Engineer** working at the intersection of web development, marketing technology, automation, and systems integration.
+I work at the intersection of front-end development, marketing technology, automation, and systems integration. My background started in e-commerce operations, connecting storefronts, vendors, inventory, customers, and fulfillment. Today I build and support customer-facing web experiences and marketing workflows while continuing to explore better ways to connect systems and reduce manual work.
 
-I started in e-commerce operations, working with inventory systems, vendors, warehouses, fulfillment, and multi-channel marketplaces. Over time, I became more interested in the systems connecting everything together, which led me into software development.
+* 🌍  I'm based in U.S.A 🇺🇸
+* ✉️  You can contact me by messaging me or through LinkedIn. 
+* 💻  Currently working as a MarTech Developer across front-end development, marketing automation, and DevOps workflows.
+* 🤖  Exploring AI-assisted development and automation with tools like Claude Code.
+* ✨  I like exploring new cultures through food, wine and travel. ✈️
+* 🧘‍♀️  Outside of work, I enjoy cooking, fashion, hiking, biking, pilates and skiing. ⛷️
 
-Today I build and support customer-facing web experiences, marketing workflows, integrations, and automation. My background in e-commerce and operations means I tend to think about the code, the customer journey, and the business problem together.
+## 💻 Tech Stack
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
-## What I Work With
+## 🌐 Socials
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/annasphere) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/annaprasongsy) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/annasphere) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/annasphere) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/annasphere) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aprasongsy@gmail.com) 
 
-**Front-End Development**  
-HTML5 · CSS3 · JavaScript · jQuery · Bootstrap · Responsive Design · Accessibility / WCAG
 
-**MarTech & Automation**  
-Iterable · Marketing Automation · Transactional Email · Lifecycle Journeys · Order Forms · Workflow Automation
+<!-- <p align="left"> <a href="https://www.github.com/annasphere" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/annaprasongsy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.twitch.tv/annasphere" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" alt="Twitch" title="Twitch" /> </picture> </a> <a href="https://www.codepen.io/annasphere" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" alt="CodePen" title="CodePen" /> </picture> </a> <a href="https://discord.com/users/annasphere" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p> -->
 
-**Systems & Integrations**  
-REST APIs · API / EDI / FTP Integrations · AWS · Google Cloud · Docker · Cloudflare Workers
+## 🚀 Projects 
 
-**Development Workflow**  
-Git · GitHub · VS Code · Chrome DevTools · Claude Code · Browser QA · DevOps Workflows
+[Crash Board](https://annasphere.github.io/crash-board/) | Responsive cryptocurrency market dashboard built with vanilla JavaScript and live CoinGecko data. Uses a Cloudflare Worker to keep API credentials out of the browser, with custom SVG gauges and responsive layouts.
 
-## Featured Projects
+[FLOWria](https://annasphere.github.io/flowria/) | Pilates & Yoga e-commerce project combining brand identity, UX design, and functional web development. End-to-end execution branding, logo and visual identity, responsive layout, checkout logic, form validation, and accessibility optimization.
 
-### [Crash Board](https://annasphere.github.io/crash-board/)
-A responsive cryptocurrency market dashboard built with vanilla JavaScript and live CoinGecko data. Uses a Cloudflare Worker to keep API credentials out of the browser and includes custom SVG gauges, responsive layouts, and browser security controls.
+[Rugged Junction](https://www.ruggedjunction.com) | Outdoor e-commerce brand built in Shopify. Creative direction, product sourcing, and brand system design. Project operational strategy, branding, and Shopify customization. 
 
-**JavaScript · HTML5 · CSS3 · Cloudflare Workers · CoinGecko API**
+<!-- * 💼  [Kawaii Café](https://annasphere.github.io/kawaii-cafe/) | JavaScript build focused on API integration, asynchronous data handling, and real-time UI updates. Connects to multiple APIs, stores user data locally, and dynamic rendering using JavaScript and jQuery. -->
 
-### [FLOWria](https://annasphere.github.io/flowria/)
-A Pilates and yoga e-commerce experience combining responsive front-end development, checkout logic, form validation, accessibility, and visual design.
-
-**JavaScript · Fetch API · JSON · HTML5 · CSS3 · Accessibility**
-
-### [Rugged Junction](https://www.ruggedjunction.com)
-A Shopify-based outdoor e-commerce brand combining storefront customization, brand systems, product strategy, and customer experience design.
-
-**Shopify · JavaScript · HTML · CSS · E-Commerce**
-
-## Current Focus
-
-I'm especially interested in the overlap between **front-end engineering, MarTech, integrations, DevOps workflows, and AI-assisted development**. I like working on systems where the web experience is one part of a larger customer journey.
-
-Outside of work, I enjoy cooking, fashion, Pilates, hiking, biking, skiing, and exploring new cultures through food, wine, and travel.
-
-## Connect
-
-[Portfolio](https://annasphere.github.io/portfolio-site/) · [LinkedIn](https://linkedin.com/in/annaprasongsy) · [Email](mailto:aprasongsy@gmail.com)
