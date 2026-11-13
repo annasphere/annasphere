@@ -7,15 +7,15 @@
 
  # Hi, I'm Anna. 
  
-I work at the intersection of front-end web development, marketing technology, automation, and systems integration. My background started in e-commerce operations, connecting storefronts, vendors, inventory, customers, and fulfillment. Today I build and support customer-facing web experiences and marketing workflows while continuing to explore better ways to connect systems and reduce manual work.
+I'm a front-end web developer working across ecommerce, marketing technology, and automation. My background spans ecommerce operations and systems integration, from storefronts and vendor data to inventory and fulfillment. Today I build customer-facing web experiences, subscription journeys, and developer tooling that makes implementation and QA more reliable.
 
 🌍   I'm based in U.S.A 🇺🇸
 
 ✉️   You can contact me by messaging me or through LinkedIn.
 
-💻   Currently working as a MarTech Developer across front-end development, marketing automation, and DevOps workflows.
+💻   Currently working as a MarTech Web Developer, building ecommerce web experiences, subscription flows, and lifecycle email journeys.
 
-🤖   Exploring AI-assisted development and automation with tools like Claude Code.
+🛠️   Building reusable development workflows and automated QA checks with Claude Code and Python.
 
 ✨   Outside of work, I enjoy cooking, traveling, fashion, hiking, biking, pilates and skiing. 
 
