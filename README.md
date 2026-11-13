@@ -7,7 +7,7 @@
 
  # Hi, I'm Anna. 
  
-I'm a front-end web developer working across ecommerce, marketing technology, and automation. My background spans ecommerce operations and systems integration, from storefronts and vendor data to inventory and fulfillment. Today I build customer-facing web experiences, subscription journeys, and developer tooling that makes implementation and QA more reliable.
+I'm a web developer working across ecommerce, marketing technology, and automation. My background spans ecommerce operations and systems integration, from storefronts and vendor data to inventory and fulfillment. Today I build customer-facing web experiences, subscription journeys, and developer tooling that makes implementation and QA more reliable.
 
 🌍   I'm based in U.S.A 🇺🇸
 
